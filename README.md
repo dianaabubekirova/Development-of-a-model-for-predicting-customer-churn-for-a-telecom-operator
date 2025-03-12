@@ -3,8 +3,6 @@
 
 The telecom operator "TeleDom" wants to combat customer churn. To achieve this, its employees will begin offering promo codes and special conditions to those who plan to discontinue services. To identify such customers in advance, the operator needs a model that will predict whether a subscriber will terminate the contract.
 
-Description of Services
-
 The operator provides two main types of services:
 
 Landline Telephone Service: It is possible to connect a telephone to multiple lines simultaneously.
